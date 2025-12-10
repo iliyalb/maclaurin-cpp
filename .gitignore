@@ -1,0 +1,11 @@
+# IDE files
+/.project
+/.settings
+/.cproject
+/.idea
+/.vscode
+
+# C++ files
+*.out
+*.exe
+*.pdb
